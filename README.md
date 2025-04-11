@@ -21,7 +21,7 @@
 
     git clone https://github.com/goncalvesotavio/CalculadoraIMC.git
 
-    cd minha-lista-tarefa
+    cd CalculadoraIMC
 
 5- Depois de clonar rode os comandos:
 
